@@ -1,0 +1,36 @@
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.pdb
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Properties.Resources.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.YoneticiGiris.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Doktor_Islemleri.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.GirisFormu.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.HastaGiris.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Hasta_Islemleri.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Hasta_Randevu_Islem.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Yonetici_Islem.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorGiris.resources
+C:\Users\BASKURT\Desktop\New Dersler\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorRandevuIslem.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.pdb
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.AssemblyReference.cache
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorGiris.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.DoktorRandevuIslem.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Doktor_Islemleri.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.GirisFormu.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.HastaGiris.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Hasta_Islemleri.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Hasta_Randevu_Islem.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Properties.Resources.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.YoneticiGiris.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.Yonetici_Islem.resources
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.GenerateResource.cache
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.csproj.CoreCompileInputs.cache
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+D:\OLD_DERSLER\3.Sınıf\2.Dönem\Veri Tabanı Tasarım Ve Uygulamaları\HastaneRandevu\G2_Grubu_Hastane_Randevu_Sistemi\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
